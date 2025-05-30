@@ -1,0 +1,6 @@
+# Carpeta on Processing deixa la compilació
+build/
+
+# Classes i executables
+*.class
+*.exe
